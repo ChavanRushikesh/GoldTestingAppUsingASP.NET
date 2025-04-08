@@ -1,0 +1,6 @@
+gold
+chain
+paint
+color
+lagdi
+parent

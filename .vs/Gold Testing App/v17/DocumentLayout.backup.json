@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rowdy\\source\\repos\\Gold Testing App\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A8F2F277-2893-4590-B96C-FDA342B985CF}|Gold Testing App\\Gold Testing App.csproj|c:\\users\\rowdy\\source\\repos\\gold testing app\\gold testing app\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8F2F277-2893-4590-B96C-FDA342B985CF}|Gold Testing App\\Gold Testing App.csproj|solutionrelative:gold testing app\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8F2F277-2893-4590-B96C-FDA342B985CF}|Gold Testing App\\Gold Testing App.csproj|c:\\users\\rowdy\\source\\repos\\gold testing app\\gold testing app\\home.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8F2F277-2893-4590-B96C-FDA342B985CF}|Gold Testing App\\Gold Testing App.csproj|solutionrelative:gold testing app\\home.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8F2F277-2893-4590-B96C-FDA342B985CF}|Gold Testing App\\Gold Testing App.csproj|C:\\Users\\rowdy\\source\\repos\\Gold Testing App\\gold testing app\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A8F2F277-2893-4590-B96C-FDA342B985CF}|Gold Testing App\\Gold Testing App.csproj|solutionrelative:gold testing app\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8F2F277-2893-4590-B96C-FDA342B985CF}|Gold Testing App\\Gold Testing App.csproj|C:\\Users\\rowdy\\source\\repos\\Gold Testing App\\gold testing app\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A8F2F277-2893-4590-B96C-FDA342B985CF}|Gold Testing App\\Gold Testing App.csproj|solutionrelative:gold testing app\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8F2F277-2893-4590-B96C-FDA342B985CF}|Gold Testing App\\Gold Testing App.csproj|C:\\Users\\rowdy\\source\\repos\\Gold Testing App\\gold testing app\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A8F2F277-2893-4590-B96C-FDA342B985CF}|Gold Testing App\\Gold Testing App.csproj|solutionrelative:gold testing app\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8F2F277-2893-4590-B96C-FDA342B985CF}|Gold Testing App\\Gold Testing App.csproj|c:\\users\\rowdy\\source\\repos\\gold testing app\\gold testing app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8F2F277-2893-4590-B96C-FDA342B985CF}|Gold Testing App\\Gold Testing App.csproj|solutionrelative:gold testing app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8F2F277-2893-4590-B96C-FDA342B985CF}|Gold Testing App\\Gold Testing App.csproj|c:\\users\\rowdy\\source\\repos\\gold testing app\\gold testing app\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8F2F277-2893-4590-B96C-FDA342B985CF}|Gold Testing App\\Gold Testing App.csproj|solutionrelative:gold testing app\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 121,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 129,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "home.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\rowdy\\source\\repos\\Gold Testing App\\Gold Testing App\\home.Designer.cs",
+              "RelativeDocumentMoniker": "Gold Testing App\\home.Designer.cs",
+              "ToolTip": "C:\\Users\\rowdy\\source\\repos\\Gold Testing App\\Gold Testing App\\home.Designer.cs",
+              "RelativeToolTip": "Gold Testing App\\home.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwGAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T09:52:44.77Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rowdy\\source\\repos\\Gold Testing App\\Gold Testing App\\Program.cs",
+              "RelativeDocumentMoniker": "Gold Testing App\\Program.cs",
+              "ToolTip": "C:\\Users\\rowdy\\source\\repos\\Gold Testing App\\Gold Testing App\\Program.cs",
+              "RelativeToolTip": "Gold Testing App\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T09:43:15.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Home.cs",
+              "DocumentMoniker": "C:\\Users\\rowdy\\source\\repos\\Gold Testing App\\Gold Testing App\\Home.cs",
+              "RelativeDocumentMoniker": "Gold Testing App\\Home.cs",
+              "ToolTip": "C:\\Users\\rowdy\\source\\repos\\Gold Testing App\\Gold Testing App\\Home.cs",
+              "RelativeToolTip": "Gold Testing App\\Home.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKYFAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T09:39:45.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\rowdy\\source\\repos\\Gold Testing App\\Gold Testing App\\Form1.cs",
+              "RelativeDocumentMoniker": "Gold Testing App\\Form1.cs",
+              "ToolTip": "C:\\Users\\rowdy\\source\\repos\\Gold Testing App\\Gold Testing App\\Form1.cs",
+              "RelativeToolTip": "Gold Testing App\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T21:11:11.877Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "login.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\rowdy\\source\\repos\\Gold Testing App\\Gold Testing App\\login.cs",
+              "RelativeDocumentMoniker": "Gold Testing App\\login.cs",
+              "ToolTip": "C:\\Users\\rowdy\\source\\repos\\Gold Testing App\\Gold Testing App\\login.cs [Design]",
+              "RelativeToolTip": "Gold Testing App\\login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T09:43:23.483Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\rowdy\\source\\repos\\Gold Testing App\\Gold Testing App\\Form1.cs",
+              "RelativeDocumentMoniker": "Gold Testing App\\Form1.cs",
+              "ToolTip": "C:\\Users\\rowdy\\source\\repos\\Gold Testing App\\Gold Testing App\\Form1.cs [Design]",
+              "RelativeToolTip": "Gold Testing App\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T09:43:18.361Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Home.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\rowdy\\source\\repos\\Gold Testing App\\Gold Testing App\\Home.cs",
+              "RelativeDocumentMoniker": "Gold Testing App\\Home.cs",
+              "ToolTip": "C:\\Users\\rowdy\\source\\repos\\Gold Testing App\\Gold Testing App\\Home.cs [Design]",
+              "RelativeToolTip": "Gold Testing App\\Home.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T09:39:24.581Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

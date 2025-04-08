@@ -1,0 +1,5 @@
+F:\C# Project\Deployed Project Rushi Chavan\Gold Testing App.exe
+F:\C# Project\Deployed Project Rushi Chavan\Gold Testing App.dll
+F:\C# Project\Deployed Project Rushi Chavan\Gold Testing App.deps.json
+F:\C# Project\Deployed Project Rushi Chavan\Gold Testing App.runtimeconfig.json
+F:\C# Project\Deployed Project Rushi Chavan\Gold Testing App.pdb

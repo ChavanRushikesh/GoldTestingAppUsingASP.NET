@@ -1,0 +1,5 @@
+E:\C#_Assignment_Solved\Gold Testing App.exe
+E:\C#_Assignment_Solved\Gold Testing App.dll
+E:\C#_Assignment_Solved\Gold Testing App.deps.json
+E:\C#_Assignment_Solved\Gold Testing App.runtimeconfig.json
+E:\C#_Assignment_Solved\Gold Testing App.pdb

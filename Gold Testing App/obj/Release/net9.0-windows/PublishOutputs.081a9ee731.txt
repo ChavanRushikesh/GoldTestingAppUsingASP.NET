@@ -1,0 +1,5 @@
+F:\Gold Testing App.exe
+F:\Gold Testing App.dll
+F:\Gold Testing App.deps.json
+F:\Gold Testing App.runtimeconfig.json
+F:\Gold Testing App.pdb

@@ -1,0 +1,20 @@
+C:\Users\rowdy\source\repos\Gold Testing App\Gold Testing App\bin\Release\net9.0-windows\Gold Testing App.exe
+C:\Users\rowdy\source\repos\Gold Testing App\Gold Testing App\bin\Release\net9.0-windows\Gold Testing App.deps.json
+C:\Users\rowdy\source\repos\Gold Testing App\Gold Testing App\bin\Release\net9.0-windows\Gold Testing App.runtimeconfig.json
+C:\Users\rowdy\source\repos\Gold Testing App\Gold Testing App\bin\Release\net9.0-windows\Gold Testing App.dll
+C:\Users\rowdy\source\repos\Gold Testing App\Gold Testing App\bin\Release\net9.0-windows\Gold Testing App.pdb
+C:\Users\rowdy\source\repos\Gold Testing App\Gold Testing App\obj\Release\net9.0-windows\Gold_Testing_App.Calculator.resources
+C:\Users\rowdy\source\repos\Gold Testing App\Gold Testing App\obj\Release\net9.0-windows\Gold_Testing_App.Form1.resources
+C:\Users\rowdy\source\repos\Gold Testing App\Gold Testing App\obj\Release\net9.0-windows\Gold_Testing_App.Home.resources
+C:\Users\rowdy\source\repos\Gold Testing App\Gold Testing App\obj\Release\net9.0-windows\Gold_Testing_App.Login.resources
+C:\Users\rowdy\source\repos\Gold Testing App\Gold Testing App\obj\Release\net9.0-windows\Gold_Testing_App.Properties.Resources.resources
+C:\Users\rowdy\source\repos\Gold Testing App\Gold Testing App\obj\Release\net9.0-windows\Gold Testing App.csproj.GenerateResource.cache
+C:\Users\rowdy\source\repos\Gold Testing App\Gold Testing App\obj\Release\net9.0-windows\Gold Testing App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rowdy\source\repos\Gold Testing App\Gold Testing App\obj\Release\net9.0-windows\Gold Testing App.AssemblyInfoInputs.cache
+C:\Users\rowdy\source\repos\Gold Testing App\Gold Testing App\obj\Release\net9.0-windows\Gold Testing App.AssemblyInfo.cs
+C:\Users\rowdy\source\repos\Gold Testing App\Gold Testing App\obj\Release\net9.0-windows\Gold Testing App.csproj.CoreCompileInputs.cache
+C:\Users\rowdy\source\repos\Gold Testing App\Gold Testing App\obj\Release\net9.0-windows\Gold Testing App.dll
+C:\Users\rowdy\source\repos\Gold Testing App\Gold Testing App\obj\Release\net9.0-windows\refint\Gold Testing App.dll
+C:\Users\rowdy\source\repos\Gold Testing App\Gold Testing App\obj\Release\net9.0-windows\Gold Testing App.pdb
+C:\Users\rowdy\source\repos\Gold Testing App\Gold Testing App\obj\Release\net9.0-windows\Gold Testing App.genruntimeconfig.cache
+C:\Users\rowdy\source\repos\Gold Testing App\Gold Testing App\obj\Release\net9.0-windows\ref\Gold Testing App.dll
